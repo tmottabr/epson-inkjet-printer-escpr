@@ -1,5 +1,6 @@
---- filter.c	2026-02-26 06:53:23.000000000 -0300
-+++ filter.c	2026-04-12 19:50:22.808324140 -0300
+diff -up epson-inkjet-printer-escpr-1.7.9/src/filter.c.filter epson-inkjet-printer-escpr-1.7.9/src/filter.c
+--- epson-inkjet-printer-escpr-1.7.9/src/filter.c.filter	2021-02-09 05:43:33.000000000 +0100
++++ epson-inkjet-printer-escpr-1.7.9/src/filter.c	2021-03-17 01:26:25.891388047 +0100
 @@ -32,6 +32,8 @@
  #include "epson-protocol.h"
  #include "epson-escpr-api.h"
