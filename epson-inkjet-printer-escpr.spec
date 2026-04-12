@@ -5,7 +5,7 @@ Name:           epson-inkjet-printer-escpr
 Summary:        Drivers for Epson inkjet printers
 Epoch:          1
 Version:        1.8.8
-Release:        1.%{lsb}%{?dist}
+Release:        1
 # Automatically converted from old format: GPLv2+ - review is highly recommended.
 License:        GPL-2.0-or-later
 # Search for something like XP-7100
