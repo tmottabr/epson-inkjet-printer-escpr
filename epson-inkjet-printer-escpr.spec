@@ -16,6 +16,7 @@ Source0:        https://download-center.epson.com/f/module/903592cf-b8ff-4954-97
 # https://aur.archlinux.org/packages/epson-inkjet-printer-escpr/
 Patch1:         epson-inkjet-printer-escpr-filter.patch
 Patch2:         implicit-function-declaration.patch
+Patch3:         epson-inkjet-printer-escpr-wrapper.patch
 
 BuildRequires:  gcc
 BuildRequires:  automake
