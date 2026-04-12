@@ -17,7 +17,7 @@ diff -up epson-inkjet-printer-escpr-1.7.9/src/filter.c.filter epson-inkjet-print
 +#include "xfifo.h"
 +
 +extern EPS_ERR_CODE SetupJobAttrib (const EPS_JOB_ATTRIB*);
-+extern EPS_ERR_CODE SendStartJob ();
++extern EPS_ERR_CODE SendStartJob (EPS_BOOL);
 +extern EPS_ERR_CODE PrintBand (const EPS_UINT8*, EPS_UINT32, EPS_UINT32*);
  
  #define WIDTH_BYTES(bits) (((bits) + 31) / 32 * 4)
