@@ -11,7 +11,7 @@ License:        GPL-2.0-or-later
 # Search for something like XP-7100
 URL:            http://download.ebz.epson.net/dsc/search/01/search/?OSC=LX
 # Download address is garbled on web page
-Source0:        https://download3.ebz.epson.net/dsc/f/03/00/13/77/93/e85dc2dc266e96fdc242bd95758bd88d1a51963e/epson-inkjet-printer-escpr-1.7.21-1lsb3.2.tar.gz
+Source0:        https://download-center.epson.com/f/module/903592cf-b8ff-4954-9767-1b81a7841cb9/epson-inkjet-printer-escpr-1.8.8-1.tar.gz
 # Patch from Arch Linux
 # https://aur.archlinux.org/packages/epson-inkjet-printer-escpr/
 Patch1:         epson-inkjet-printer-escpr-filter.patch
