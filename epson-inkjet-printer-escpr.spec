@@ -49,6 +49,7 @@ http://avasys.jp/english/linux_e/
 %setup -q 
 %patch -P1 -p1 -b .filter
 %patch -P2 -p1 -b .implicit-function-declaration
+%patch -P3 -p1 -b .wrapper
 # Fix permissions
 find . -name \*.h -exec chmod 644 {} \;
 find . -name \*.c -exec chmod 644 {} \;
