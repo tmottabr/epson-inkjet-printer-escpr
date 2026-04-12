@@ -6,7 +6,7 @@ diff -up epson-inkjet-printer-escpr-1.7.9/src/filter.c.filter epson-inkjet-print
  #include "epson-escpr-api.h"
  #include "epson-escpr-mem.h"
 +#include "epson-escpr-services.h"
-+#include "epson-escpage.h"
++//#include "epson-escpage.h"
  
  #include "err.h"
  #include "mem.h"
