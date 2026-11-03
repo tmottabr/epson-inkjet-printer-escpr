@@ -4,14 +4,14 @@
 Name:           epson-inkjet-printer-escpr
 Summary:        Drivers for Epson inkjet printers
 Epoch:          1
-Version:        1.8.8
+Version:        1.8.10
 Release:        1
 # Automatically converted from old format: GPLv2+ - review is highly recommended.
 License:        GPL-2.0-or-later
 # Search for something like XP-7100
 URL:            http://download.ebz.epson.net/dsc/search/01/search/?OSC=LX
 # Download address is garbled on web page
-Source0:        https://download-center.epson.com/f/module/903592cf-b8ff-4954-9767-1b81a7841cb9/epson-inkjet-printer-escpr-1.8.8-1.tar.gz
+Source0:        https://download-center.epson.com/f/module/eda6dc6c-3059-47d5-9d87-4d80a9055a64/epson-inkjet-printer-escpr-1.8.10-1.tar.gz
 # Patch from Arch Linux
 # https://aur.archlinux.org/packages/epson-inkjet-printer-escpr/
 Patch1:         epson-inkjet-printer-escpr-filter.patch
