@@ -89,7 +89,7 @@ rm %{buildroot}%{_libdir}/libescpr.so
 %{_libdir}/libescpr.so.*
 
 %changelog
-* Sun Nov 3 2026 Thiago Motta <thiago@motta.eti.br - 1:1.8.10-1
+* Tue Nov 3 2026 Thiago Motta <thiago@motta.eti.br - 1:1.8.10-1
 - upgrade to latest version
 
 * Sun Apr 12 2026 Thiago Motta <thiago@motta.eti.br - 1:1.8.8-1lsb3.2
